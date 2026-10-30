@@ -1,4 +1,4 @@
-package com.example.jpa;
+package ma.projet;
 
 /**
  * Hello world!
